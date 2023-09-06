@@ -268,6 +268,7 @@ https://github.com/dbaranchuk/ivf-hnsw
 * TOROS N2 (python, C++): https://github.com/kakao/n2 
 * Online HNSW (C++): https://github.com/andrusha97/online-hnsw) 
 * Go implementation: https://github.com/Bithack/go-hnsw
+* Python implementation: https://github.com/datasketch
 * Python implementation (as a part of the clustering code by by Matteo Dell'Amico): https://github.com/matteodellamico/flexible-clustering
 * Julia implmentation https://github.com/JuliaNeighbors/HNSW.jl
 * Java implementation: https://github.com/jelmerk/hnswlib
